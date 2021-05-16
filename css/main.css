@@ -12,7 +12,7 @@ Table Of Contents
  3. Color Switcher
  4. Navbar
  5. Home
- 6. About Me
+ 6. About Me 
  7. Services
  8. Skills
  9. Resume
@@ -623,6 +623,7 @@ section.active {
 .home .home-img {
 	position: relative;
     background: url('../images/home-background.jpg') center center no-repeat;
+
 	background-size: cover;
 } 
 
